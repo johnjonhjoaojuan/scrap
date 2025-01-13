@@ -1,6 +1,7 @@
 ---
 title: Hello
 theme: jekyll-theme-minimal
+layout: post
 ---
 
 <html>
