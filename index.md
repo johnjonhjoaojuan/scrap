@@ -1,9 +1,5 @@
----
-title: Hello
-theme: jekyll-theme-minimal
-layout: post
----
 
+<!DOCTYPE html>
 <html>
 <head>
     <title> Title for the project </title>
