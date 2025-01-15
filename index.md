@@ -1,9 +1,3 @@
-<!-- <!DOCTYPE html> -->
-
----
-layout: base
----
-
 <html lang="en">
     <head>
         <title> Scrap </title>
