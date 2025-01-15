@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+    background-color: #1D232A;
+  }
+  
+  h1 {
+    color: #267CB9;
+    margin-left: 20px;
+  }
+
+  p {
+    color: #90A7BB
+  }
