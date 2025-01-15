@@ -5,8 +5,8 @@
         <link rel="stylesheet" href="mystyle.css"> 
     </head>
     <style>
-        h1{text-align: center;}
-        h2{text-align: center;}
+        h1{text-align: center; "background-color:##5A8BBB";}
+        h2{text-align: center; "background-color:##5A8BBB";}
         p {text-align: center;}
         div {text-align: center;}
     </style>
