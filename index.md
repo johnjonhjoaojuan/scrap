@@ -1,7 +1,3 @@
----
-layout: home
----
-
 <html lang="en">
     <head>
         <title> Scrap </title>
@@ -11,7 +7,7 @@ layout: home
         Header text!
     </header>
     <body>
-        <h1>A big introductory title 1.3</h1>
+        <h1>A big introductory title 1.4</h1>
         <p> 
         Maxime voluptate eos aut aspernatur quos ad. Qui cupiditate qui eveniet voluptas soluta dicta a. Pariatur dolor esse vero harum occaecati aperiam ut autem.
         Ut qui aut tempora fugiat dolorem quibusdam in optio. Recusandae est quo iusto distinctio. Dicta odio consequatur aliquid voluptas recusandae accusantium.
