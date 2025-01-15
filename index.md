@@ -10,7 +10,7 @@
         p {text-align: center;}
         div {text-align: center;}
     </style>
-    <body>
+    <body style= "background-color:#1D232A;">
         <h1>I sure hope this works</h1>
         <p> 
         Maxime voluptate eos aut aspernatur quos ad. Qui cupiditate qui eveniet voluptas soluta dicta a. Pariatur dolor esse vero harum occaecati aperiam ut autem.
