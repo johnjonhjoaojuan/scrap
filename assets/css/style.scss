@@ -2,3 +2,38 @@
 ---
 
 @import "{{ site.theme }}";
+
+header {
+    background-color: #507F80;
+    color: #2B2B2B;
+}
+
+body {
+    background-color: #1D232A;
+}
+  
+h1 {
+    color: #267CB9;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h2 {
+    color: #2B2B2B;
+    background-color: #5A8BBB;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align:left;
+}
+
+p {
+    color: #90A7BB;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #507F80;
+    color: #2B2B2B;
+}
