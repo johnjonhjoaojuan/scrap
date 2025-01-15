@@ -10,7 +10,7 @@
     </style>
     <body style= "background-color:#1D232A;">
         <h1 style= "color: #5A8BBB">A big introductory title</h1>
-        <p style= "background-color: #90A7BB"> 
+        <p style= "color: #90A7BB"> 
         Maxime voluptate eos aut aspernatur quos ad. Qui cupiditate qui eveniet voluptas soluta dicta a. Pariatur dolor esse vero harum occaecati aperiam ut autem.
         Ut qui aut tempora fugiat dolorem quibusdam in optio. Recusandae est quo iusto distinctio. Dicta odio consequatur aliquid voluptas recusandae accusantium.
         Veritatis exercitationem sed dolore unde enim quo perferendis. Ea molestias a sunt placeat consequatur laborum laudantium possimus. Quibusdam deserunt repellendus consequatur ex consequatur sequi est architecto.
