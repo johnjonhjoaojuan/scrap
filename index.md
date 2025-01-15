@@ -1,6 +1,6 @@
 
-<!DOCTYPE html>
 <html>
+
 <head>
     <title> Title for the project </title>
 </head>
@@ -20,5 +20,18 @@ Aspernatur porro ut illo culpa omnis quia. Sapiente tenetur pariatur laborum sim
 Repellendus aut corporis sequi aut blanditiis temporibus amet sit. Iure quo deleniti in nemo. Ipsum quo ut dolores et doloribus. Quod ut est asperiores.
 </p>
 
+<h2> Second heading whatever this means </h2>
+
+<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum lacinia enim, vitae viverra ipsum finibus a. Phasellus pharetra justo aliquam fermentum congue. Phasellus eleifend ex vitae risus scelerisque, maximus volutpat enim fermentum. Vestibulum efficitur libero quis odio sagittis, at maximus augue egestas. Aenean vehicula, ex vel gravida maximus, tellus massa placerat nibh, sit amet dapibus elit est non est. Vivamus dictum sodales maximus. Sed ornare lectus sit amet sem rutrum elementum. Quisque ultricies lacus pellentesque, pellentesque lorem nec, pharetra odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent viverra lectus non nulla iaculis vestibulum. Nam aliquam arcu iaculis, suscipit magna in, sodales lorem. Mauris eu felis non diam vestibulum pellentesque vel quis nisi. Pellentesque suscipit mi ut sapien aliquam, ac tempus felis lacinia. Vestibulum aliquet libero id enim hendrerit, a congue dui imperdiet. Fusce laoreet augue sit amet turpis rhoncus, id varius magna egestas. 
+
+</p>
+
+<p>
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+
+</p>
 
 ## Test tesTt
