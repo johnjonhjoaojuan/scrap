@@ -3,24 +3,17 @@
 
 @import "{{ site.theme }}";
 
-header {
-    background-color: #507F80;
-    color: #2B2B2B;
-}
-
 body {
     background-color: #1D232A;
 }
   
 h1 {
-    color: #267CB9;
     text-align: center;
     margin-top: 40px;
 }
 
 h2 {
-    color: #2B2B2B;
-    background-color: #5A8BBB;
+    background-color: #04290c;
     margin-top: 40px;
     padding-left: 20px;
     padding-right: 20px;
@@ -34,6 +27,8 @@ p {
 }
 
 footer {
-    background-color: #507F80;
-    color: #2B2B2B;
+    background-color: #04290c;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 150px;
 }
