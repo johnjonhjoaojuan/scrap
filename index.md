@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 <html lang="en">
     <head>
         <title> Scrap </title>
