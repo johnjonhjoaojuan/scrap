@@ -1,8 +1,10 @@
-
+<!DOCTYPE html>
 <html>
 
 <head>
     <title> Title for the project </title>
+    <link rel="stylesheet" href="mystyle.css"> 
+
 </head>
 
 <style>
@@ -26,6 +28,8 @@ Aspernatur porro ut illo culpa omnis quia. Sapiente tenetur pariatur laborum sim
 
 Repellendus aut corporis sequi aut blanditiis temporibus amet sit. Iure quo deleniti in nemo. Ipsum quo ut dolores et doloribus. Quod ut est asperiores.
     </p>
+
+<img src="https://johnjonhjoaojuan.github.io/scrap/images/image1.jpg" style="display: block; margin: auto;"/>
 
 <div>Whatever div means, this is one </div>
 
