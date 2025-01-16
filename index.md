@@ -5,6 +5,7 @@
             <style>
                 body {
                     font-family:'Verdana';
+                    background-color: #252433;
                     margin: 0;
                     padding: 0;
                 }
