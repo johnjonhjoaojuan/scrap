@@ -29,10 +29,10 @@ hr {
 
 
 img {
-    width: 150px;
-    height: 100px;
+    max-width: 80%;
+    max-height: 80%;
     border: 1px solid #000;
-    margin: 10px 0;
+    margin: auto;
 }
 
 .contain {
