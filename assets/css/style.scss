@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Default styles for phone*/
+/* Default style for phone*/
 
 body {
     background-color: #1D232A;
@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-    color: #90A7BB;
+    color: #B0B0B0;
     margin-bottom: 30px;
     font-size: 16px;
 }
@@ -35,7 +35,7 @@ footer {
     padding-bottom: 150px;
 }
 
-/* Default styles for desktop*/
+/* Default style for desktop*/
 
 @media (min-width: 768px){
     p {
