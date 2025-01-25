@@ -46,4 +46,5 @@
                 Doloremque quia laudantium totam. Eligendi ipsa laborum soluta laboriosam adipisci doloremque. Animi consequuntur voluptatibus iusto est. Nemo officia qui dolorem occaecati rerum esse ad.
                 </p>
         </body>
+        <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Page 2</a>
 </html>
