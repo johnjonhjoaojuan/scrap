@@ -53,5 +53,5 @@ description: This is the description for the first page
                 </p>
         </body>
         <hr>
-        <a class="return" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+        <a align="right" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
 </html>
