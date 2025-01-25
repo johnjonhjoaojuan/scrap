@@ -19,11 +19,14 @@ description: All the links are here, not here though look down a few more centim
     <body>
         <div>
             <p>Check out all them freaking projects man</p>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/index">Project 1</a>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Project 2</a>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Project 3</a>
-            <a href="#">About</a>
-            <a href="#">Contact</a>
+            <hr>
+            <pre>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/index">Project 1</a>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Project 2</a>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Project 3</a>
+                <a href="#">About</a>
+                <a href="#">Contact</a>
+            </pre>
       </div>
     </body>
 </html>

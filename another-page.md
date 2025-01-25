@@ -17,6 +17,9 @@ description: This is just another page
                 }
             </style>
     </head>
+    <p>
+    Lorem ipsum is a dummy or placeholder text commonly used in graphic design, publishing, and web development to fill empty spaces in a layout that do not yet have content.
+    </p>
 <hr>
     <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
 
