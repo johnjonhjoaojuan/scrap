@@ -23,7 +23,7 @@ description: All the links are here, not here though look down a few more centim
                 <a href="https://johnjonhjoaojuan.github.io/scrap/index">Project 1</a><br>
                 <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Project 2</a><br>
                 <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Project 3</a><br>
-                <a href="#">About</a>
+                <a href="#">About</a><br>
                 <a href="#">Contact</a>
       </div>
     </body>

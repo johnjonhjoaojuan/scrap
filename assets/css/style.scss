@@ -60,12 +60,14 @@ footer {
     padding-top: 5;
     padding-bottom: 150px;
 }
+/* Default style for desktop*/
 
 .return {
-    padding-top: 10;
     text-align: right;
+    padding-top: 10px;
+    display: block;
+
 }
-/* Default style for desktop*/
 
 @media (min-width: 768px){
     p {
