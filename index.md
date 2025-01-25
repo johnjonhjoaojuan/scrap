@@ -1,3 +1,9 @@
+---
+layout: default
+title: First page
+description: This is the description for the first page
+---
+
 <html lang="en">
     <head>
         <title> Scrap </title>
@@ -47,5 +53,5 @@
                 </p>
         </body>
         <hr>
-        <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+        <a class="return" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
 </html>

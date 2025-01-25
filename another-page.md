@@ -17,10 +17,7 @@ description: This is just another page
                 }
             </style>
     </head>
-
-
-
 <hr>
-        <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+    <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
 
 </html>

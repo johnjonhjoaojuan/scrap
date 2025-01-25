@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Index
-description: All the links are here
+description: All the links are here, not here though look down a few more centimeteres
 ---
 
 <html lang="en">
@@ -18,14 +18,11 @@ description: All the links are here
     </head>
     <body>
         <div>
-            <p>Check out my socials and my full address!</p>
+            <p>Check out all them freaking projects man</p>
+            <a href="https://johnjonhjoaojuan.github.io/scrap/index">Project 1</a>
+            <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Project 2</a>
+            <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Project 3</a>
             <a href="#">About</a>
-            <p>Check out the main page!</p>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/index">Maybe change this text instead</a>
-            <p>Check out the second page!</p>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Page 2</a>
-            <p>You're here :3</p>
-            <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Page 3</a>
             <a href="#">Contact</a>
       </div>
     </body>
