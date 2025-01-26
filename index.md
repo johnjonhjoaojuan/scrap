@@ -18,6 +18,7 @@ description: This is the description for the first page
             </style>
     </head>
     <body>
+        <a id="top"></a>
         <h1>A big introductory title 1.4</h1>
         <hr>
             <p> 
@@ -51,7 +52,9 @@ description: This is the description for the first page
             <p>
                 Doloremque quia laudantium totam. Eligendi ipsa laborum soluta laboriosam adipisci doloremque. Animi consequuntur voluptatibus iusto est. Nemo officia qui dolorem occaecati rerum esse ad.
                 </p>
+            <br>
         <hr>
+            <a style="text-align: left" href="#top">Back to top</a>
             <a style="text-align: right" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
     </body>
 </html>

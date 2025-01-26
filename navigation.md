@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Navigation
 description: All the links are here, not here though look down a few more centimeteres
 ---
 
