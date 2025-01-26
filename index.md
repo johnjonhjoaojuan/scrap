@@ -18,6 +18,7 @@ description: This is the description for the first page
             </style>
     </head>
     <body>
+        <!-- This id is where the back to top button returns to-->
         <a id="top"></a>
         <h1>A big introductory title 1.4</h1>
         <hr>
@@ -55,6 +56,6 @@ description: This is the description for the first page
             <br>
         <hr>
             <a style="text-align: left" href="#top">Back to top</a>
-            <a style="text-align: right" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+            <a class="nav" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
     </body>
 </html>

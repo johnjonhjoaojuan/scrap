@@ -60,6 +60,12 @@ footer {
     padding-top: 5;
     padding-bottom: 150px;
 }
+
+.nav {
+    display:inline-block;
+    text-align:right;
+    margin:0 auto;
+}
 /* Default style for desktop*/
 
 @media (min-width: 768px){
