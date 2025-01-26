@@ -55,9 +55,11 @@ description: This is the description for the first page
                 </p>
             <br>
         <hr>
-            <a class="blc" href="#top">Back to top</a>
-            <div class="rig">
-                <div class="blc"><a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a></div>
+            <div class="blc">
+                <a href="#top">Back to top</a>
+                <div class="rig">
+                    <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+                </div>
             </div>
     </body>
 </html>
