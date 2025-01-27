@@ -55,14 +55,12 @@ footer {
     padding-bottom: 150px;
 }
 
-.blc {
-    display:inline;
+.navb {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
 }
-.rig {
-    text-align:right;
-    
-}
-.blc.rig {}
 /* Default style for desktop*/
 
 @media (min-width: 768px){
