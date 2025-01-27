@@ -45,7 +45,7 @@ description: This is the description for the first page
         <h1>Testing Header 1 again </h1>
         <hr>
             <p>
-                PILAPILAPILA
+                TEST
                 </p>
             <p>
                 Tenetur libero et velit officia sed. Magnam est odio eum. Cum repellendus ut deserunt est perferendis. Nostrum praesentium et officiis explicabo eaque aut.
@@ -55,11 +55,10 @@ description: This is the description for the first page
                 </p>
             <br>
         <hr>
-            <div class="blc">
-                <a href="#top">Back to top</a>
+            <a class="blc" href="#top">Back to top</a>
+            <div class="rig">
+                <div class="blc"><a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a></div>
             </div>
-            <div class="blc rig">
-                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
-            </div>
+
     </body>
 </html>
