@@ -45,22 +45,22 @@ description: This is the description for the first page
             <div class="slideshow-container">
                 <div class="mySlides fade">
                     <div class="numbertext"> 1 / 4</div>
-                    <img src="prg1.png" loading="lazy" alt="Screenshot showing progress mew" style="width:100%">
+                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg1.png" loading="lazy" alt="Screenshot showing progress mew" style="width:100%">
                     <div class="text">You can sense the headache in this one</div>
                 </div>
                 <div class="mySlides fade">
                     <div class="numbertext"> 2 / 4</div>
-                    <img src="prg2.png" loading="lazy" alt="Screenshot showing progress meow" style="width:100%">
+                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg2.png" loading="lazy" alt="Screenshot showing progress meow" style="width:100%">
                     <div class="text">Bliss</div>
                 </div>
                 <div class="mySlides fade">
                     <div class="numbertext"> 3 / 4</div>
-                    <img src="prg1.png" loading="lazy" alt="Screenshot showing progress meoow" style="width:100%">
+                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg3.png" loading="lazy" alt="Screenshot showing progress meoow" style="width:100%">
                     <div class="text">How long of a phrase can I add until it just becomes annoying and I have to remove it or shrink it</div>
                 </div>
                 <div class="mySlides fade">
                     <div class="numbertext"> 4 / 4</div>
-                    <img src="prg1.png" loading="lazy" alt="Screenshot showing progress meooow" style="width:100%">
+                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg4.png" loading="lazy" alt="Screenshot showing progress meooow" style="width:100%">
                     <div class="text">hehe :3</div>
                 </div>
                 <!--Next and previous buttons-->
