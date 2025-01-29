@@ -41,41 +41,6 @@ description: This is the description for the first page
             <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? 
                 </p>
-            <!--Slideshow -->
-            <div class="slideshow-container">
-                <div class="mySlides fade">
-                    <div class="numbertext"> 1 / 4</div>
-                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg1.png" loading="lazy" alt="Screenshot showing progress mew" style="width:100%">
-                    <div class="text">You can sense the headache in this one</div>
-                </div>
-                <div class="mySlides fade">
-                    <div class="numbertext"> 2 / 4</div>
-                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg2.png" loading="lazy" alt="Screenshot showing progress meow" style="width:100%">
-                    <div class="text">Bliss</div>
-                </div>
-                <div class="mySlides fade">
-                    <div class="numbertext"> 3 / 4</div>
-                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg3.png" loading="lazy" alt="Screenshot showing progress meoow" style="width:100%">
-                    <div class="text">How long of a phrase can I add until it just becomes annoying and I have to remove it or shrink it</div>
-                </div>
-                <div class="mySlides fade">
-                    <div class="numbertext"> 4 / 4</div>
-                    <img src="https://johnjonhjoaojuan.github.io/scrap/images/prg4.png" loading="lazy" alt="Screenshot showing progress meooow" style="width:100%">
-                    <div class="text">hehe :3</div>
-                </div>
-                <!--Next and previous buttons-->
-                <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-                <a class="next" onclick="plusSlides(1)">&#10095;</a>
-            </div>
-            <br>
-            <!--Fancy circles-->
-            <div style="text-align:center">
-                <span class="dot" onclick="currentSlide(1)></span>
-                <span class="dot" onclick="currentSlide(2)></span>
-                <span class="dot" onclick="currentSlide(3)></span>
-                <span class="dot" onclick="currentSlide(4)></span>
-            </div>
-            <br>
         <h1>Testing Header 1 again </h1>
         <hr>
             <p>
