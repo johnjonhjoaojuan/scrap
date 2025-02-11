@@ -10,7 +10,10 @@ description: This is the description for the first page
         <link rel="stylesheet" href="style.scss"> 
             <style>
                 body {
-                    font-family:'Arial';
+                    <!-- HTML in your document's head -->
+                    <link rel="preconnect" href="https://rsms.me/">
+                    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+                    font-family:'Helvetica', 'Arial';
                     background-color: #181a1b;
                     margin: 0;
                     padding: 0;
@@ -41,7 +44,7 @@ description: This is the description for the first page
             <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? 
                 </p>
-        <h1>Testing Header 1 again </h1>
+        <h3>Testing Header 3 </h3>
         <hr>
             <p>
                 TEST1
@@ -56,7 +59,7 @@ description: This is the description for the first page
         <hr>
             <div class="navb">
                 <a href="#top">Back to top</a>
-                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+                <a href="/scrap/navigation">Navigation page</a>
             </div>
         <script src="scripts/main.js"></script>
     </body>

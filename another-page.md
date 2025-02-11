@@ -10,7 +10,7 @@ description: This is just another page
         <link rel="stylesheet" href="style.scss"> 
             <style>
                 body {
-                    font-family:'Arial';
+                    font-family:'Helvetica', 'Arial';
                     background-color: #181a1b;
                     margin: 0;
                     padding: 0;
