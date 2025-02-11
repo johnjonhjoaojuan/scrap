@@ -32,8 +32,17 @@ description: This is the description for the first page
             Aspernatur porro ut illo culpa omnis quia. Sapiente tenetur pariatur laborum similique ut natus deleniti. Provident et ea dicta eum ut.
             Repellendus aut corporis sequi aut blanditiis temporibus amet sit. Iure quo deleniti in nemo. Ipsum quo ut dolores et doloribus. Quod ut est asperiores.
             </p>
-    <!-- This is a comment-->
-                <img class="contain" loading="lazy" alt="image of a goofy cat" src="images/prg1.png" style="display: block;"/>
+    <!-- Old html image code -->
+    <!-- <img class="contain" loading="lazy" alt="Slideshow images showing progress" src="images/prg1.png" style="display: block;"/> -->
+                <div class="image-container">
+                    <img class="contain" loading="lazy" alt="Slideshow images showing progress" id="slideshow" src="images/prg1.png" style="display: block;"/>
+                </div>
+                <div class="prog-bar">
+                    <span class="dot" data-index="0"></span>
+                    <span class="dot" data-index="1"></span>
+                    <span class="dot" data-index="2"></span>
+                    <span class="dot" data-index="4"></span>
+                </div>
         <div>Click on the screenshot above </div>
         <h2> Background Color is a great way to divide sections! </h2>
             <p>

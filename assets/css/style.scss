@@ -39,10 +39,10 @@ hr {
     padding: 0;
 }
 
-
+/* Old Image formatting */
 img {
-    max-width: 60%;
-    max-height: 60%;
+    max-width: 900px;
+    max-height: 500px;
     display: block;
     border: 1px solid #000;
     margin-left: auto;
@@ -51,6 +51,23 @@ img {
 
 .contain {
     object-fit: contain;
+}
+/* Old Image formatting */
+
+.image-container {
+    float: left;
+    width:  832px;
+    height: 450px;
+    background-color: black; /* Fill extra space with black */
+    object-fit: cover;
+}
+
+.image-container img {
+    width: 100%; /* Make the image fill the container width */
+    height: 100%; /* Make the image fill the container height */
+    object-fit: contain; /* Crop the image to fit the container */
+    object-position: center;
+    
 }
 
 
@@ -67,6 +84,30 @@ footer {
     padding-top: 5;
     padding-bottom: 150px;
 }
+
+/* Image progress dots */
+.prog-bar {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.dot{
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color:  #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.2s ease;
+}
+
+.dot.active {
+    background-color: #333;
+}
+/* Image progress dots */
+
+
 
 .navb {
         display: flex;
