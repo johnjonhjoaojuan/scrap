@@ -33,6 +33,12 @@ dots.forEach((dot, index) => {
         updateSlide(currentIndex);
     });
 });
+//Click event listener on the image
+const slideshow = document.getElementById("slideshow");
+slideshow.addEventListener("click", () => {
+    currentIndex = (currentIndex +1) % images.length; // Cycle to next image
+    updateSlide(currentIndex);
+});
 
 //Initialize first image and dot
 updateSlide(currentIndex);
