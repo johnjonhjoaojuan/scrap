@@ -20,9 +20,9 @@ description: All the links are here, not here though look down a few more centim
         <div>
             <p>Check out all them freaking projects man</p>
             <hr>
-                <a href="/scrap/#">Project 1</a><br>
-                <a href="/scrap/another-page">Project 2</a><br>
-                <a href="/scrap/navigation">Project 3</a><br>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/index">Project 1</a><br>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/another-page">Project 2</a><br>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Project 3</a><br>
                 <a href="#">About</a><br>
                 <a href="#">Contact</a>
       </div>

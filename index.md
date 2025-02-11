@@ -59,7 +59,7 @@ description: This is the description for the first page
         <hr>
             <div class="navb">
                 <a href="#top">Back to top</a>
-                <a href="/scrap/navigation">Navigation page</a>
+                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
             </div>
         <script src="scripts/main.js"></script>
     </body>
