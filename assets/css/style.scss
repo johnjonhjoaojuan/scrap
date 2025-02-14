@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-
+/* Font */
 :root {
     font-family: Inter, Helvetica, sans-serif;
     font-feature-settings: 'liga' 1, 'calt' 1; /* fix for Chrome */
@@ -11,6 +11,8 @@
   @supports (font-variation-settings: normal) {
     :root { font-family: InterVariable, Helvetica, sans-serif; }
   }
+
+/* Text elements */
 
 h1 {
     text-align: center;
@@ -30,16 +32,75 @@ h3 {
     padding-right: 15px;
 }
 
+p {
+    color: #c4c4c4;
+    margin-bottom: 30px;
+    font-size: 17px;
+    word-spacing: 1px;
+}
+
+.desc {
+    color: #A6A6A6;
+    font-size: 16px;
+    padding-bottom: 15px;
+    font-style: italic;
+}
+
+/* Extra html elements */
 hr {
     display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
+    height: 10px;
+    border: 20px#ccc;
+    border-radius: 5px;
     padding: 0;
 }
 
-/* Old Image formatting */
+footer {
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 5px;
+    padding-bottom: 120px;
+    margin-top: 0rem;
+}
+.site-footer { 
+    margin: 0 0em;
+    padding-top: 80px;
+    border-top: solid 2px #eff0f1;
+    font-size:15px;
+    line-height: 20px;
+}
+.main-content {
+    background-color: #101212;
+}
+
+.button {
+    background-color: #0d0e0e;
+    padding: 6px;
+    padding-bottom: 7px;
+}
+
+a:hover {
+    background-color: #181a1b;
+}    
+a:link {
+    color: #7DB5D4;
+}
+
+.navb {
+    height: 5px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 0em 0;
+    bottom: 0;
+    background-color: #0d0e0e;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+/* Image formatting */
 img {
     max-width: 900px;
     max-height: 500px;
@@ -49,13 +110,7 @@ img {
     margin-right: auto;
 }
 
-.contain {
-    object-fit: contain;
-}
-/* Old Image formatting */
-
 .image-container {
-    float: left;
     width:  832px;
     height: 450px;
     background-color: black; /* Fill extra space with black */
@@ -70,25 +125,10 @@ img {
     
 }
 
-
-p {
-    color: #c4c4c4;
-    margin-bottom: 30px;
-    font-size: 16px;
-    word-spacing: 1px;
-}
-
-footer {
-    padding-left: 60px;
-    padding-right: 60px;
-    padding-top: 5;
-    padding-bottom: 150px;
-}
-
 /* Image progress dots */
 .prog-bar {
     text-align: center;
-    margin-top: 10px;
+    padding-top: 10px;
 }
 
 .dot{
@@ -97,7 +137,7 @@ footer {
     width: 20px;
     margin-top: 15px;
     margin: 0 2px;
-    background-color:  #bbb;
+    background-color:#bbb;
     border-radius: 50%;
     display: inline-block;
     transition: background-color 0.2s ease;
@@ -106,26 +146,12 @@ footer {
 .dot.active {
     background-color: #333;
 }
-/* Image progress dots */
 
 
-
-.navb {
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        width: 100%;
-}
-a:hover {
-    background-color: #1d1f20;
-}
-
-
-/* Default style for desktop*/
-
-@media (min-width: 768px){
-    p {
-        font-size: 17px;
+@media (max-width: 320px){
+    .image-container {
+        width: auto;
+        height: auto;
     }
 
 }

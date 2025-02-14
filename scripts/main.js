@@ -29,6 +29,7 @@ function updateSlide(index) {
 const dots = document.querySelectorAll(".dot");
 dots.forEach((dot, index) => {
     dot.addEventListener("click", () => {
+        event.stopPropagation();
         currentIndex = index;
         updateSlide(currentIndex);
     });

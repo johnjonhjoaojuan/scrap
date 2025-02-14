@@ -7,19 +7,23 @@ description: This is the description for the first page
 <html lang="en">
     <head>
         <title> Scrap </title>
-        <link rel="stylesheet" href="style.scss"> 
+          <link rel="stylesheet" href="https://johnjonhjoaojuan.github.io/scrap/assets/css/style.scss" media="print" onload="this.media='all'"> 
+          <!-- "Inter" Font -->
+          <link rel="preconnect" href="https://rsms.me/">
+          <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
             <style>
                 body {
-                    <!-- HTML in your document's head -->
-                    <link rel="preconnect" href="https://rsms.me/">
-                    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-                    font-family:'Helvetica', 'Arial';
+                    font-family: 'Inter','Helvetica', 'Arial';
                     background-color: #181a1b;
                     margin: 0;
                     padding: 0;
                 }
             </style>
     </head>
+    <!--<header>q
+        <h1>Test Header</h1>
+        <p> This is some sample text for the header</p>
+    </header> -->
     <body>
         <!-- This id is where the back to top button returns to-->
         <a id="top"></a>
@@ -35,7 +39,7 @@ description: This is the description for the first page
     <!-- Old html image code -->
     <!-- <img class="contain" loading="lazy" alt="Slideshow images showing progress" src="images/prg1.png" style="display: block;"/> -->
                 <div class="image-container">
-                    <img class="contain" loading="lazy" alt="Slideshow images showing progress" id="slideshow" src="images/prg1.png" style="display: block;"/>
+                    <img class="contain" alt="Slideshow images showing progress" id="slideshow" src="images/prg1.png" style="display: block;"/>
                 </div>
                 <div class="prog-bar">
                     <span class="dot" data-index="0"></span>
@@ -43,13 +47,13 @@ description: This is the description for the first page
                     <span class="dot" data-index="2"></span>
                     <span class="dot" data-index="4"></span>
                 </div>
-        <div>Click on the screenshot above </div>
+        <div class="desc">Click on the screenshot above </div>
         <h2> Background Color is a great way to divide sections! </h2>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec interdum lacinia enim, vitae viverra ipsum finibus a. Phasellus pharetra justo aliquam fermentum congue. Phasellus eleifend ex vitae risus scelerisque, maximus volutpat enim fermentum. Vestibulum efficitur libero quis odio sagittis, at maximus augue egestas. Aenean vehicula, ex vel gravida maximus, tellus massa placerat nibh, sit amet dapibus elit est non est. Vivamus dictum sodales maximus. Sed ornare lectus sit amet sem rutrum elementum. Quisque ultricies lacus pellentesque, pellentesque lorem nec, pharetra odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent viverra lectus non nulla iaculis vestibulum. Nam aliquam arcu iaculis, suscipit magna in, sodales lorem. Mauris eu felis non diam vestibulum pellentesque vel quis nisi. Pellentesque suscipit mi ut sapien aliquam, ac tempus felis lacinia. Vestibulum aliquet libero id enim hendrerit, a congue dui imperdiet. Fusce laoreet augue sit amet turpis rhoncus, id varius magna egestas. 
                 </p>
                     <img class="contain" loading="lazy" alt="Pickup truck carrying a canon on its bed pointing towards the front car" src="images/prg2.png"/>
-            <div>Canon event</div>
+            <div class="desc">Canon event</div>
             <p>
                 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? 
                 </p>
@@ -65,11 +69,10 @@ description: This is the description for the first page
                 Doloremque quia laudantium totam. Eligendi ipsa laborum soluta laboriosam adipisci doloremque. Animi consequuntur voluptatibus iusto est. Nemo officia qui dolorem occaecati rerum esse ad.
                 </p>
             <br>
-        <hr>
             <div class="navb">
-                <a href="#top">Back to top</a>
-                <a href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+                <a class="button" href="#top">Back to top</a>
+                <a class="button" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
             </div>
-        <script src="scripts/main.js"></script>
+        <script src="scripts/main.js" defer></script>
     </body>
 </html>
