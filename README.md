@@ -1,2 +1,2 @@
 # scrap
-Description for e
+Project blog-type website which contains personal projects with documentation

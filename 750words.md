@@ -22,15 +22,10 @@ description: All the links are here
     </head>
     <body>
         <div>
-            <p>This is the navigation page where you'll find all of the resources available.</p>
-            <hr>
-                <!-- Change these too https://johnjonhjoaojuan.github.io/scrap/another-page if they stop working -->
-                <a href="index.html">Home Page</a><br>
-                <a href="homelab.html">Project 1 - Homelab</a><br>
-                <a href="navigation.html">Project 2</a><br>
-                <a href="750words.html">About?</a><br>
-                <a href="#">Contact</a><br>
-                <br>
-      </div>
-    </body>
-</html>
+            <h1 class="bt">CONTENT COMING SOON...?</h1>
+            <br>
+            <img class="contain" loading="lazy" alt="It's the same cat from earlier but I'm writing this to say that I have some cool stuff that I have been writting up shakya, shakya? shakya booty" src="images/image1.jpg"/>
+        </div>
+      </body>
+  </html>
+  

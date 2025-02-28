@@ -4,3 +4,4 @@ Gemfile.lock
 _site/*
 .jekyll-cache/*
 style.scss
+run.sh

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: First page
-description: This is the description for the first page
+title: Home Page
+description: This is the description for the home page
 ---
 
 <html lang="en">
@@ -20,15 +20,19 @@ description: This is the description for the first page
                 }
             </style>
     </head>
-    <!--<header>q
-        <h1>Test Header</h1>
-        <p> This is some sample text for the header</p>
-    </header> -->
     <body>
+        <div class="sidenav">
+            <a href="#"> About</a>
+            <a href="index.html"> Home</a>
+            <a href="navigation.html"> Navigation</a>
+            <a href="#"> Contact</a>
+        </div>
         <!-- This id is where the back to top button returns to-->
         <a id="top"></a>
-        <h1>A big introductory title 1.4</h1>
+        <br>
+        <h1 class="bt">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR ADIPISCING</h1>
         <hr>
+            <h2>Lorem Ipsum</h2>
             <p> 
             Maxime voluptate eos aut aspernatur quos ad. Qui cupiditate qui eveniet voluptas soluta dicta a. Pariatur dolor esse vero harum occaecati aperiam ut autem.
             Ut qui aut tempora fugiat dolorem quibusdam in optio. Recusandae est quo iusto distinctio. Dicta odio consequatur aliquid voluptas recusandae accusantium.
@@ -71,7 +75,8 @@ description: This is the description for the first page
             <br>
             <div class="navb">
                 <a class="button" href="#top">Back to top</a>
-                <a class="button" href="https://johnjonhjoaojuan.github.io/scrap/navigation">Navigation page</a>
+                <!-- If the buttons stop working, reverse to this https://johnjonhjoaojuan.github.io/scrap/navigation template-->
+                <a class="button" href="navigation.html">Navigation page</a>
             </div>
         <script src="scripts/main.js" defer></script>
     </body>

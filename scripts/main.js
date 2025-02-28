@@ -1,3 +1,6 @@
+console.log('Script is up and running - Beginning of JavaScript');
+
+
 const images = [
     "images/prg1.png",
     "images/prg2.png",
@@ -62,3 +65,38 @@ updateSlide(currentIndex);
 //             }
 // );
 
+//Scrolling stop
+
+document.addEventListener('DOMContentLoaded', function(){
+    console.log('DOM fully loaded. Script is running');
+
+    const banner = document.querySelector('.page-header');
+    const sidenav = document.querySelector('.sidenav');
+
+    if (!banner || !sidenav) {
+        console.error('Banner or sidebar element not found');
+        return;
+    }
+
+    const bannerHeight = banner.offsetHeight;
+    const offset = 10; 
+
+    document.addEventListener('scroll', function() {
+
+        const bannerBottom = banner.getBoundingClientRect().bottom;
+
+        if(bannerBottom <= offset) {
+            console.log('Fixing sidebar to top with new offset')
+            sidenav.style.position = 'fixed';
+            sidenav.style.top = '0';
+        } else {
+            console.log('Positioning sidebar below banner')
+            sidenav.style.position = 'absolute';
+            sidenav.style.top = `${bannerHeight}px`;
+        }
+    });
+});
+
+console.log('Banner Bottom:', bannerBottom);
+console.log('Sidebar Position:', sidenav.style.position);
+console.log('Sidebar Top:', sidenav.style.top);
