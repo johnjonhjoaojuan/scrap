@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation
+title: Navigation Page
 description: All the links are here
 ---
 
@@ -24,13 +24,15 @@ description: All the links are here
         <div>
             <p>This is the navigation page where you'll find all of the resources available.</p>
             <hr>
-                <!-- Change these too https://johnjonhjoaojuan.github.io/scrap/another-page if they stop working -->
+                <!-- Change incase https://johnjonhjoaojuan.github.io/scrap/another-page  -->
+            <div class="navtext">
                 <a href="index.html">Home Page</a><br>
                 <a href="homelab.html">Project 1 - Homelab</a><br>
                 <a href="navigation.html">Project 2</a><br>
-                <a href="750words.html">About?</a><br>
+                <a href="750words.html">The Morning Pages</a><br>
                 <a href="#">Contact</a><br>
                 <br>
+            </div>
       </div>
     </body>
 </html>

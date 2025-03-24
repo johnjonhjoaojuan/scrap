@@ -20,13 +20,19 @@ description: This is just another page
                 }
             </style>
     </head>
-    <p id="top">
-    Lorem ipsum is a dummy or placeholder text commonly used in graphic design, publishing, and web development to fill empty spaces in a layout that do not yet have content.
-    </p>
-    <br>
-    <!-- Here too -->
-    <div class="navb">
-    <a class="button" href="#top">Back to top</a>
-    <a class="button" href="navigation.html">Navigation page</a>
-    </div>
+    <body>
+        <h1 class="bt" id="top">THE HOMELAB</h1>
+        <hr>
+            <h2>What is a homelab</h2>
+                <p>A a server that  locally  your home  can host dit kinds of a and  systems for funct home usge, .</p>
+                <p>
+                SOON COMING SOON!</p>
+        <br>
+        <!-- Here too -->
+        <div class="navb">
+            <a class="button" href="#top">Back to top</a>
+            <a class="button" href="navigation.html">Navigation page</a>
+        </div>
+    <script src="scripts/main.js" defer></script> 
+    </body>
 </html>
